@@ -1,5 +1,7 @@
 # MyFirstApp
 
+This is the demo project for Udemy's Angular 4 - The Complete Guide course.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
 ## Development server
